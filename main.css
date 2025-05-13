@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #4a6fa5;
+  --ad-bg-color: #f5f5f5;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.vpn-status {
+  border-left: 3px solid var(--primary-color);
+  padding-left: 1rem;
+}
